@@ -1,3 +1,4 @@
+# add your conn details and query
 import mysql.connector
 import pandas as pd
 import matplotlib.pyplot as plt
