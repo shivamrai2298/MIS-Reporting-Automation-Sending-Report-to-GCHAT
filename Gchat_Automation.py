@@ -1,4 +1,4 @@
-# add your conn details and query for automation
+# add your connections details and query for automation
 import mysql.connector
 import pandas as pd
 import matplotlib.pyplot as plt
